@@ -1,2 +1,0 @@
-# SOLREI
-Capstone Project
